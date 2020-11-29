@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://185-23-180-2.ksyungslb.com/bigota.d.miui.com/20.11.23/miui_VIOLET_20.11.23_f1ef5803f1_10.0.zip?ksy_gslb_referer=https%3A%2F%2Fgithub.com%2Fleeminh888%2Fupdate_miui_ota%2Fblob%2Fmaster%2FDevelop%2FRedmi%2520Note7%2520Pro.md
+  ROM_URL: https://gdmbd.sasohan.workers.dev/@RAZER-ED_whyred_20.11.11_X_V2.zip
   ROM_NAME: MIUI
-  ZIP_NAME: RMN7pro
+  ZIP_NAME: miui_razor
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
