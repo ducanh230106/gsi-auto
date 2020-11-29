@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://udomain.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.11.25/xiaomi.eu_multi_HMNote7_20.11.25_v12-10.zip?viasf=1
-  ROM_NAME: MIUI
-  ZIP_NAME: MIUI-EU
+  ROM_URL: https://doc-0o-04-docs.googleusercontent.com/docs/securesc/aa4oa6t9d104k8o8da3qq6iuns69hiqd/o8v97p9u40hbb3750h1pitvlsvejma0a/1606645200000/09292953018261486716/11072023371771798565/1zDtn0WvYfhgi-WjhCGoaNMq2CiB01Gpd?e=download&authuser=0&nonce=h1kit61f4mnao&user=11072023371771798565&hash=k4o5l11j53l1c71a8f8conap27aa3u54
+  ROM_NAME: Generic
+  ZIP_NAME: FusionOS
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
