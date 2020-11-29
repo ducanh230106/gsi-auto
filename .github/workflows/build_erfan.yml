@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://gdmbd.sasohan.workers.dev/@RAZER-ED_whyred_20.11.11_X_V2.zip
+  ROM_URL: https://s191vla.storage.yandex.net/rdisk/7977c8e24a9df675148283e242b9a6e9ca8092a48d0d3adf6a3d0b3edcea27e4/5fc36273/Av7yVleztnw7sFG-Vu0QQ-Qlr6GGWY2tWENTnzygtm3oCMsEP03e1AJXMA_ZYZc9gs8YCqn2C6Q1Wpg04dVm0g==?uid=0&filename=MIUITR_20.11.19_REDMINOTE5_WHYRED_M12-A9.zip&disposition=attachment&hash=hfCHroSZ5u7/Kuyz5hZWXwuzZZopUvVp8OddL4P5o3iN8Bgt5GY3mq6csMAJX%2Bztq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=application%2Fzip&owner_uid=226448624&fsize=1734861259&hid=c2f72e41a62ad98f2a28bc7783311c1e&media_type=compressed&tknv=v2&rtoken=05EJraGbCvIu&force_default=no&ycrid=na-5a72afafc430051a7d8e768587a9a78e-downloader8h&ts=5b53b14f742c0&s=443020c47b523a648592ef9e6d1b2e2ab849711d27e6cb5f9d04899f506ae7fe&pb=U2FsdGVkX1_xZYti0LBUw6Ry0cFYPO-7hcDmxuPDNw2D6Zh8Oxg_Ez6mBKnfMZktie8wfaXBSeexRIvY8V6eJIBxayKz10jGGWILkJry0yU
   ROM_NAME: MIUI
-  ZIP_NAME: miui_razor
+  ZIP_NAME: miui_tr
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
