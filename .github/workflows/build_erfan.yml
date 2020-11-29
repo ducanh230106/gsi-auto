@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download.pixelexperience.org/changelog/lavender/PixelExperience_lavender-10.0-20201117-1405-OFFICIAL.zip
-  ROM_NAME: Generic
-  ZIP_NAME: pixel_rmn7
+  ROM_URL: https://udomain.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.11.25/xiaomi.eu_multi_HMNote7_20.11.25_v12-10.zip?viasf=1
+  ROM_NAME: MIUI
+  ZIP_NAME: MIUI-EU
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
