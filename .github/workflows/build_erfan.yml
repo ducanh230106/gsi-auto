@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://doc-0s-60-docs.googleusercontent.com/docs/securesc/aa4oa6t9d104k8o8da3qq6iuns69hiqd/5cth3has0npc8jqlogru0vb45h04f7qh/1606628025000/11072023371771798565/11072023371771798565/1xvJlc7ri4g7FFfI4PWpHk55RawRN2qkO?e=download&authuser=0&nonce=60t0i8o7f2hrm&user=11072023371771798565&hash=9mnuh8mp01m1gj4b9o3ip3k586f33jpc
+  ROM_URL: https://udomain.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.11.25/xiaomi.eu_multi_HMNote7_20.11.25_v12-10.zip?viasf=1
   ROM_NAME: MIUI
-  ZIP_NAME: miui_tr
+  ZIP_NAME: miui_eu
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
