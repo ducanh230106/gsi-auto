@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://s191vla.storage.yandex.net/rdisk/e15535692831edc937b7fa5bbbe15b26feb0eeb6dab662bfff08fd0c58b6655f/5fc365e1/Av7yVleztnw7sFG-Vu0QQ-Qlr6GGWY2tWENTnzygtm3oCMsEP03e1AJXMA_ZYZc9gs8YCqn2C6Q1Wpg04dVm0g==?uid=0&filename=MIUITR_20.11.19_REDMINOTE5_WHYRED_M12-A9.zip&disposition=attachment&hash=hfCHroSZ5u7/Kuyz5hZWXwuzZZopUvVp8OddL4P5o3iN8Bgt5GY3mq6csMAJX%2Bztq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=application%2Fzip&owner_uid=226448624&fsize=1734861259&hid=c2f72e41a62ad98f2a28bc7783311c1e&media_type=compressed&tknv=v2&rtoken=46VeD6ujEgWH&force_default=no&ycrid=na-7b561b7cd6932750598ab1a635ea4202-downloader18e&ts=5b53b494c7a40&s=e73b8d59ebf5d82959296c46453dfbffd823633a7694aa81e900abb0d7fab0e8&pb=U2FsdGVkX1_5g7xChIFag-abS4ddM7ELP9en0yIfAGn1tLFusvz5ezbReJto0FjO7sxI3RLCjORQ-lW8P9wbeVjvtogvP4EC2CbuYPejOxw
+  ROM_URL: https://doc-0s-60-docs.googleusercontent.com/docs/securesc/aa4oa6t9d104k8o8da3qq6iuns69hiqd/5cth3has0npc8jqlogru0vb45h04f7qh/1606628025000/11072023371771798565/11072023371771798565/1xvJlc7ri4g7FFfI4PWpHk55RawRN2qkO?e=download&authuser=0&nonce=60t0i8o7f2hrm&user=11072023371771798565&hash=9mnuh8mp01m1gj4b9o3ip3k586f33jpc
   ROM_NAME: MIUI
   ZIP_NAME: miui_tr
   TZ: Asia/Kolkata
