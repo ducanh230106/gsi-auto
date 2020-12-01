@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://oxygenos.oneplus.net/OnePlus6Oxygen_22_OTA_047_all_2007191515_bd6f7476887846cb.zip
-  ROM_NAME: OxygenOS
-  ZIP_NAME: Oneplus 6
+  ROM_URL: https://doc-14-0k-docs.googleusercontent.com/docs/securesc/aa4oa6t9d104k8o8da3qq6iuns69hiqd/mqv04dtvj3okfkotqg9itjbu17q52126/1606801125000/15193475026542181905/11072023371771798565/1vyjUVwmGozjWx61WdU8xTkbUTAK6duvU?e=download&authuser=0&nonce=m0rm6roeucmma&user=11072023371771798565&hash=hklb591ssb0efhvh3q320e4a5jlggjql
+  ROM_NAME: Generic
+  ZIP_NAME: Havoc
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
@@ -33,7 +33,7 @@ jobs:
             sudo -E apt-get -qq install git openjdk-8-jdk wget
        
        - name: Clone ErfanGSI Source Code
-         run: git clone --recurse-submodules https://github.com/HitaloSama/ErfanGSIs-Hitsuki.git ErfanGSIs
+         run: git clone --recurse-submodules https://github.com/erfanoabdi/ErfanGSIs.git
        
        - name: Setting up ErfanGSI requirements
          run: |
