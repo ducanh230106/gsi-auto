@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://doc-14-0k-docs.googleusercontent.com/docs/securesc/aa4oa6t9d104k8o8da3qq6iuns69hiqd/mqv04dtvj3okfkotqg9itjbu17q52126/1606801125000/15193475026542181905/11072023371771798565/1vyjUVwmGozjWx61WdU8xTkbUTAK6duvU?e=download&authuser=0&nonce=m0rm6roeucmma&user=11072023371771798565&hash=hklb591ssb0efhvh3q320e4a5jlggjql
+  ROM_URL: https://m.mark41stark.workers.dev//Havoc-OS-v3.11-20201130-lavender-GAMING.zip
   ROM_NAME: Generic
   ZIP_NAME: Havoc
   TZ: Asia/Kolkata
