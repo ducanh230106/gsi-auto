@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://185-23-180-2.ksyungslb.com/bigota.d.miui.com/20.11.23/miui_VIOLET_20.11.23_f1ef5803f1_10.0.zip?ksy_gslb_referer=https%3A%2F%2Fgithub.com%2Fleeminh888%2Fupdate_miui_ota%2Fblob%2Fmaster%2FDevelop%2FRedmi%2520Note7%2520Pro.md
-  ROM_NAME: MIUI
-  ZIP_NAME: RMN7pro
+  ROM_URL: https://oxygenos.oneplus.net/OnePlus5TOxygen_43_OTA_068_all_2006012227_f63ba0f8b46a4c4a.zip
+  ROM_NAME: OxygenOS
+  ZIP_NAME: OxygenOS5T
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
