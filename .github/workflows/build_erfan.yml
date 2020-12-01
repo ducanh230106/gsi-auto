@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://oxygenos.oneplus.net/OnePlus5TOxygen_43_OTA_068_all_2006012227_f63ba0f8b46a4c4a.zip
-  ROM_NAME: OxygenOS
-  ZIP_NAME: OxygenOS5T
+  ROM_URL: https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDYyODUwMjMiLCJ1IjpudWxsLCJsdCI6ImRvd25sb2FkIiwicyI6IjJkZTFmYmQ4NzRhZDllMGQ1NmIxMDYwNjk0OTI2NjE0YWJjZmFiMzMxOGEwZDE3Y2VkNzkyYWFiNzliZTFmYjhjOWIwMzk2NjZlMjI3OWRlMDNlMzEzYmQ2NzUxZTEyMTcwZDM4MjFiZmY0Y2ZmNDA5ZDUzNTI5YjFjNzc0N2QxIiwidCI6MTYwNjgyNjExMywic3RmcCI6IjJmZmYwNGY4MWMwYjFlYWIxN2YxOTU4MjgxZTAyOThiIiwic3RpcCI6IjI0MDU6NDgwMzpmNjU4OjkxMDA6NjA3Njo3M2FkOjFhOGI6YjQ2NyJ9.v-R_SuQwh7cPysGfMz8REDxbTxSVThVfyWRsJL9Dr2w/Havoc-OS-v3.11-FrozenFire-20201123-mido-GApps.zip
+  ROM_NAME: Generic
+  ZIP_NAME: HavocOS
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
