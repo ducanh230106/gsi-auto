@@ -15,8 +15,8 @@ on:
     
 env:
   ROM_URL: https://udomain.dl.sourceforge.net/project/evolution-x/lavender/EvolutionX_5.1_lavender-11-20201120-1722-OFFICIAL.zip?viasf=1
-  ROM_NAME: EvolutionX 11
-  ZIP_NAME: 
+  ROM_NAME: Generic
+  ZIP_NAME: EvolutionX 11
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
