@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://android.googleapis.com/packages/ota-api/package/91bd2d8ed8262e1a037c296e715deb25a764ddc2.zip
-  ROM_NAME: Generic
-  ZIP_NAME: VOSJoy4
+  ROM_URL: https://185-23-180-2.ksyungslb.com/bigota.d.miui.com/20.11.23/miui_VIOLET_20.11.23_f1ef5803f1_10.0.zip?ksy_gslb_referer=https%3A%2F%2Fgithub.com%2Fleeminh888%2Fupdate_miui_ota%2Fblob%2Fmaster%2FDevelop%2FRedmi%2520Note7%2520Pro.md
+  ROM_NAME: MIUI
+  ZIP_NAME: RMN7pro
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
@@ -47,13 +47,17 @@ jobs:
               sudo ./url2GSI.sh $ROM_URL $ROM_NAME
               
        
-       - name: Zip AB and upload 
+       - name: Zip Aonly and upload 
          run: |
               mkdir final
               sudo chmod -R 777 ErfanGSIs/output
-              zip -r ErfanGSIs/output/$ZIP_NAME-GSI-AB.7z ErfanGSIs/output/*-AB-*.img
+              zip -r ErfanGSIs/output/$ZIP_NAME-GSI-Aonly.7z ErfanGSIs/output/*-Aonly-*.img
               curl -sL https://git.io/file-transfer | sh
-              ./transfer $MIR ErfanGSIs/output/$ZIP_NAME-GSI-AB.7z            
+              ./transfer $MIR ErfanGSIs/output/$ZIP_NAME-GSI-Aonly.7z          
+       - name: Zip AB and upload 
+         run: |
+              zip -r ErfanGSIs/output/$ZIP_NAME-GSI-AB.7z ErfanGSIs/output/*-AB-*.img
+              ./transfer $MIR ErfanGSIs/output/$ZIP_NAME-GSI-AB.7z      
        - name: Print build info
          run: |
-              cat ErfanGSIs/output/*-AB-*.txt
+              cat ErfanGSIs/output/*-Aonly-*.txt
