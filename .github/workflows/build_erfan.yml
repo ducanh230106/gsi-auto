@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: https://android.googleapis.com/packages/ota-api/package/91bd2d8ed8262e1a037c296e715deb25a764ddc2.zip
   ROM_NAME: Generic
-  ZIP_NAME: VOS Joy 4
+  ZIP_NAME: VOSJoy4
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
