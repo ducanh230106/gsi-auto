@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://get.pixelexperience.org/Yy9WeGQ3QUNxZFhGeUd5THVtWEdEaXNjK1hZSXVOWE1vOVQvd2I3Wlo2NjFrV3JPVHI2U2I0cXZhOFd5d1p1MS8yTzg2emtHU2JnTGwwVlI1RjJoRW9CSlA5UnQ1b1YrU3NNVTM1Y3gzcnVGdlhNSW5vRzY2RWFnTkpjUkI2cGc=/PixelExperience_mido-10.0-20201117-1315-OFFICIAL.zip
+  ROM_URL: https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDY2Nzk5NTYiLCJ1IjpudWxsLCJsdCI6ImRvd25sb2FkIiwicyI6IjU0YzFkOTE2ZDcxYTMxNWNhMTliOWMxZmYzNjc5MzI5ZmYwMzdiMGIwNjY4MDkwMmYwN2Y2YmFiZTRjZjM2YTdhYmI2YjhlNjMyNjkxN2FmOThhNWVkNGVhZTFjYTRjMjJhMzQyMGE0NGM4MWU5MTViMTQzMWE1OTg2ZTI2NjI2IiwidCI6MTYwNjgzOTc1NSwic3RmcCI6ImRhOTg5OTA3NzdlMzVlNTYwODVmYWQyYjNlMjM0ZDBiIiwic3RpcCI6IjI0MDU6NDgwMzpmNjU4OjkxMDA6YjA1NzoyOTQ2OjE1NDQ6ZDM5MSJ9.6gTCoeLkvpP-J99AdRdBeiZxq-7VWbebnpl5poByQEA/Corvus_vA10.5-Stable-beryllium-Gapps-29112020-Official-1524.zip
   ROM_NAME: Generic
-  ZIP_NAME: PixelEx
+  ZIP_NAME: Corvus
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
