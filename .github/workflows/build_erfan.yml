@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://nchc.dl.sourceforge.net/project/evolution-x/fajita/EvolutionX_5.1_fajita-11-20201128-1052-OFFICIAL.zip?viasf=1
-  ROM_NAME: Generic
-  ZIP_NAME: EvolutionX
+  ROM_URL: https://bigota.d.miui.com/V12.0.1.0.QFGMIXM/miui_LAVENDERGlobal_V12.0.1.0.QFGMIXM_c3fa7eb012_10.0.zip
+  ROM_NAME: MIUI
+  ZIP_NAME: MIUIGlobal
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
