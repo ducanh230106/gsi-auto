@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/20.11.25/miui_LAVENDER_20.11.25_cee3e0fc4b_10.0.zip
-  ROM_NAME: MIUI
-  ZIP_NAME: MIUIRMN7
+  ROM_URL: https://doc-00-7o-docs.googleusercontent.com/docs/securesc/aa4oa6t9d104k8o8da3qq6iuns69hiqd/sqaarmp7tqsipomdm13qn47m54f3r7gd/1606898850000/16610198250999279709/11072023371771798565/19tsQuVxVDyEN-VxzZYriziI6Jf1XbHqX?e=download&authuser=0&nonce=o80ao10o4bh42&user=11072023371771798565&hash=oglsctb7j1fnkvvu24j31ctqnkqt0ar7
+  ROM_NAME: Generic
+  ZIP_NAME: PixelExperience
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
