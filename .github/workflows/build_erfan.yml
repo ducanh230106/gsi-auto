@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDY2Nzk5NTYiLCJ1IjpudWxsLCJsdCI6ImRvd25sb2FkIiwicyI6IjU0YzFkOTE2ZDcxYTMxNWNhMTliOWMxZmYzNjc5MzI5ZmYwMzdiMGIwNjY4MDkwMmYwN2Y2YmFiZTRjZjM2YTdhYmI2YjhlNjMyNjkxN2FmOThhNWVkNGVhZTFjYTRjMjJhMzQyMGE0NGM4MWU5MTViMTQzMWE1OTg2ZTI2NjI2IiwidCI6MTYwNjgzOTc1NSwic3RmcCI6ImRhOTg5OTA3NzdlMzVlNTYwODVmYWQyYjNlMjM0ZDBiIiwic3RpcCI6IjI0MDU6NDgwMzpmNjU4OjkxMDA6YjA1NzoyOTQ2OjE1NDQ6ZDM5MSJ9.6gTCoeLkvpP-J99AdRdBeiZxq-7VWbebnpl5poByQEA/Corvus_vA10.5-Stable-beryllium-Gapps-29112020-Official-1524.zip
-  ROM_NAME: Generic
-  ZIP_NAME: Corvus
+  ROM_URL: https://hugeota.d.miui.com/20.11.25/miui_LAVENDER_20.11.25_cee3e0fc4b_10.0.zip
+  ROM_NAME: MIUI
+  ZIP_NAME: MIUIRMN7
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
