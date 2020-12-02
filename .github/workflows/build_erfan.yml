@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://doc-00-7o-docs.googleusercontent.com/docs/securesc/aa4oa6t9d104k8o8da3qq6iuns69hiqd/sqaarmp7tqsipomdm13qn47m54f3r7gd/1606898850000/16610198250999279709/11072023371771798565/19tsQuVxVDyEN-VxzZYriziI6Jf1XbHqX?e=download&authuser=0&nonce=o80ao10o4bh42&user=11072023371771798565&hash=oglsctb7j1fnkvvu24j31ctqnkqt0ar7
+  ROM_URL: https://nchc.dl.sourceforge.net/project/evolution-x/fajita/EvolutionX_5.1_fajita-11-20201128-1052-OFFICIAL.zip?viasf=1
   ROM_NAME: Generic
-  ZIP_NAME: PixelExperience
+  ZIP_NAME: EvolutionX
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
