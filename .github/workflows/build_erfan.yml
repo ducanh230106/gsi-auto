@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://android.googleapis.com/packages/ota-api/package/2940748f769020a5f891f529ca6386880a7c2693.zip
+  ROM_URL: https://nchc.dl.sourceforge.net/project/pixelextended/Vince/PixelExtended_vince-11-20201128-1319-OFFICIAL.zip
   ROM_NAME: Generic
-  ZIP_NAME: VOSJoy3
+  ZIP_NAME: PixelExtended
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
