@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://liquidtelecom.dl.sourceforge.net/project/octavi-os/lavender/OctaviOS-v1.3-lavender-20201127-0008-VANILLA-Official-Hotfix.zip
-  ROM_NAME: Generic
-  ZIP_NAME: OctaviOS
+  ROM_URL: https://dlcdnets.asus.com/pub/ASUS/ZenFone/ZS661KS/UL-ASUS_I003_1-ASUS-17.0823.2009.99-1.1.76-user.zip
+  ROM_NAME: RogUI
+  ZIP_NAME: RogUI3
   TZ: Asia/Kolkata
   MIR: wet
 jobs:
