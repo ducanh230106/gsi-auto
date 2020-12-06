@@ -14,10 +14,10 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://excellmedia.dl.sourceforge.net/project/octavi-os/ginkgo/OctaviOS-v1.3-ginkgo-20201128-1002-VANILLA-Official.zip
-  ROM_NAME: Generic
-  ZIP_NAME: OctaviOS
-  TZ: Asia/Kolkata
+  ROM_URL: https://ota.revtechs.me/rom/MI8Lite/OneOS_MI8Lite_20.11.17_v12-10.zip
+  ROM_NAME: MIUI
+  ZIP_NAME: OneOS_MI8Lite_20.11.17_GSI
+  TZ: Asia/Ho_Chi_Minh
   MIR: wet
 jobs:
   build:
