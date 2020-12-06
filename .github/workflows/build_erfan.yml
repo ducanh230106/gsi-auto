@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://ota.revtechs.me/rom/MI8Lite/OneOS_MI8Lite_20.11.17_v12-10.zip
+  ROM_URL: https://mpl1.androidfilehost.com/dl/CO7OrSqNXlcPn5gifKLgaQ/1607336052/10763459528675596296/MMX_2.2.0_lavender_20.12.2_v12-10.zip?
   ROM_NAME: MIUI
-  ZIP_NAME: OneOS_MI8Lite_20.11.17_GSI
+  ZIP_NAME: MMX_HMNote7_20.12.2
   TZ: Asia/Ho_Chi_Minh
   MIR: wet
 jobs:
