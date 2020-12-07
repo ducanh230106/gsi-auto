@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://udomain.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_HMNote7_V12.0.2.0.QFGCNXM_v12-10.zip
-  ROM_NAME: MIUI
-  ZIP_NAME: xiaomi.eu_HMNote7
+  ROM_URL: https://oxygenos.oneplus.net/OnePlus6TOxygen_34.J.48_OTA_048_all_2010042240_a826b48a76174999.zip
+  ROM_NAME: OxygenOS
+  ZIP_NAME: OxygenOS_10.3.6_OP6T
   TZ: Asia/Ho_Chi_Minh
   MIR: wet
 jobs:
