@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.3.0.QJFMIXM/miui_CITRUSGlobal_V12.0.3.0.QJFMIXM_cb3385661f_10.0.zip
+  ROM_URL: https://bigota.d.miui.com/V12.0.1.0.QCNMIXM/miui_OLIVEGlobal_V12.0.1.0.QCNMIXM_ff1f4ba5e5_10.0.zip
   ROM_NAME: MIUI
-  ZIP_NAME: MIUI_Global_Poco_M3
+  ZIP_NAME: MIUI_Global_Redmi8
   TZ: Asia/Ho_Chi_Minh
   MIR: wet
 jobs:
