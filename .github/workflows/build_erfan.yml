@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/20.12.28/miui_LAVENDER_20.12.28_0e6fdce103_10.0.zip
-  ROM_NAME: MIUI
-  ZIP_NAME: MIUI12.5_China_HMNote7
+  ROM_URL: https://android.googleapis.com/packages/ota-api/package/a1f49d709ace137a86bb29e7be2f3db85077c391.zip
+  ROM_NAME: Generic
+  ZIP_NAME: VOS4_Aris
   TZ: Asia/Ho_Chi_Minh
   MIR: wet
 jobs:
