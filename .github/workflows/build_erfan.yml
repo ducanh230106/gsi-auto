@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://jaist.dl.sourceforge.net/project/mi-a3-miui/Weekly/MIUI_Xiaomi.eu/xiaomi.eu_MIA3_21.1.6_v12-10-BITNET.zip
+  ROM_URL: https://nchc.dl.sourceforge.net/project/mi-a3-miui/Weekly/MIUI_China/MIUI_CN_MIA3_21.1.6_v12-10.0-BITNET.zip
   ROM_NAME: MIUI
   ZIP_NAME: MIUI_MIA3
   TZ: Asia/Ho_Chi_Minh
