@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://nchc.dl.sourceforge.net/project/mi-a3-miui/Weekly/MIUI_China/MIUI_CN_MIA3_21.1.6_v12-10.0-BITNET.zip
-  ROM_NAME: MIUI
-  ZIP_NAME: MIUI_MIA3
+  ROM_URL: https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTI5NzIwNDciLCJ1IjpudWxsLCJsdCI6ImRvd25sb2FkIiwicyI6Ijk3ZjY5NDA0NTU2YmZmMzI3N2FjNDMzZjE4ZjVhNzYzZTQwODc5NDVkMjc5MThkZTVmNDNmMGIwYmNjZWYzN2U5MDAyYWU3ZDBmYzJmNmU1ZjE0N2FlMzUwNjZiNWVkMjg3M2M0Mjg3ZTIzYmFkNDgxMzkxODI2ZDI1YjJhOWRkIiwidCI6MTYxMzU2MzQwNCwic3RmcCI6ImQ4NzEyODJmNzNiNzk5NDhhMjg0NmRjNDg4NmQ2MjBjIiwic3RpcCI6IjI0MDU6NDgwMzpmZTUyOjZhYzA6MTAyZTphNzI6YjVhZTo0YmE1In0.naYGL-lulu2IF5InO666m7-iOxZLdicTREqNFgWUoJA/Corvus_v14.0-Ruinous-jasmine_sprout-Gapps-10022021-Official-0237.zip
+  ROM_NAME: Generic
+  ZIP_NAME: Corvus_MIA3
   TZ: Asia/Ho_Chi_Minh
   MIR: wet
 jobs:
