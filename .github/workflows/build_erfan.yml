@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://downloads.octavi-os.com/mido/OctaviOS-v1.5-mido-20210116-1452-VANILLA-Official.zip
+  ROM_URL: https://downloads.octavi-os.com/ysl/OctaviOS-v2.0-ysl-20210217-1914-VANILLA-Official.zip
   ROM_NAME: Generic
-  ZIP_NAME: OCtaviOS
+  ZIP_NAME: OctaviOS
   TZ: Asia/Ho_Chi_Minh
   MIR: wet
 jobs:
