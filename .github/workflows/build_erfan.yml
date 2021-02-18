@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTI5NzIwNDciLCJ1IjpudWxsLCJsdCI6ImRvd25sb2FkIiwicyI6Ijk3ZjY5NDA0NTU2YmZmMzI3N2FjNDMzZjE4ZjVhNzYzZTQwODc5NDVkMjc5MThkZTVmNDNmMGIwYmNjZWYzN2U5MDAyYWU3ZDBmYzJmNmU1ZjE0N2FlMzUwNjZiNWVkMjg3M2M0Mjg3ZTIzYmFkNDgxMzkxODI2ZDI1YjJhOWRkIiwidCI6MTYxMzU2MzQwNCwic3RmcCI6ImQ4NzEyODJmNzNiNzk5NDhhMjg0NmRjNDg4NmQ2MjBjIiwic3RpcCI6IjI0MDU6NDgwMzpmZTUyOjZhYzA6MTAyZTphNzI6YjVhZTo0YmE1In0.naYGL-lulu2IF5InO666m7-iOxZLdicTREqNFgWUoJA/Corvus_v14.0-Ruinous-jasmine_sprout-Gapps-10022021-Official-0237.zip
+  ROM_URL: https://downloads.octavi-os.com/mido/OctaviOS-v1.5-mido-20210116-1452-VANILLA-Official.zip
   ROM_NAME: Generic
-  ZIP_NAME: Corvus_MIA3
+  ZIP_NAME: OCtaviOS
   TZ: Asia/Ho_Chi_Minh
   MIR: wet
 jobs:
