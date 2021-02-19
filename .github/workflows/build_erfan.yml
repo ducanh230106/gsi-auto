@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://downloads.octavi-os.com/tulip/OctaviOS-v2.0-tulip-20210218-1004-GAPPS-Official.zip
+  ROM_URL: https://downloads.octavi-os.com/violet/OctaviOS-v2.0-violet-20210216-1722-VANILLA-Official.zip
   ROM_NAME: Generic
   ZIP_NAME: OctaviOS
   TZ: Asia/Ho_Chi_Minh
