@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://downloads.octavi-os.com/violet/OctaviOS-v2.0-violet-20210216-1722-VANILLA-Official.zip
-  ROM_NAME: Generic
-  ZIP_NAME: OctaviOS
+  ROM_URL: https://oxygenos.oneplus.net/OnePlus5TOxygen_43_OTA_069_all_2010292144_76910d123e3940e5.zip
+  ROM_NAME: OxygenOS
+  ZIP_NAME: OxygenOS_5T
   TZ: Asia/Ho_Chi_Minh
   MIR: wet
 jobs:
