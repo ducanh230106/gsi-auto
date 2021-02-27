@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://android.googleapis.com/packages/ota-api/package/9bc354cef8b9e9e8b56fdf6239089c4885633592.zip
+  ROM_URL: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0710_all_i3cdf6V7tk6F.ozip
   ROM_NAME: Generic
-  ZIP_NAME: VOS_Live
+  ZIP_NAME: realmeUI_port
   TZ: Asia/Ho_Chi_Minh
   MIR: wet
 jobs:
