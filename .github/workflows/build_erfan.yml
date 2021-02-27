@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://android.googleapis.com/packages/ota-api/package/65ea10d5c2ebf14077f3f6d5a1fafb38941593cd.zip
+  ROM_URL: https://android.googleapis.com/packages/ota-api/package/7301c6477d69d5c8bc1b428f633cd391e8341d11.zip
   ROM_NAME: Generic
-  ZIP_NAME: VOS_Aris
+  ZIP_NAME: VOS_Joy3
   TZ: Asia/Ho_Chi_Minh
   MIR: wet
 jobs:
