@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://android.googleapis.com/packages/ota-api/package/65ea10d5c2ebf14077f3f6d5a1fafb38941593cd.zip
-  ROM_NAME: Ganeric
+  ROM_NAME: Generic
   ZIP_NAME: VOS_Aris
   TZ: Asia/Ho_Chi_Minh
   MIR: wet
