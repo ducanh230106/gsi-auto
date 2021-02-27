@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://oxygenos.oneplus.net/OnePlus5TOxygen_43_OTA_069_all_2010292144_76910d123e3940e5.zip
-  ROM_NAME: OxygenOS
-  ZIP_NAME: OxygenOS_5T
+  ROM_URL: https://android.googleapis.com/packages/ota-api/package/65ea10d5c2ebf14077f3f6d5a1fafb38941593cd.zip
+  ROM_NAME: Ganeric
+  ZIP_NAME: VOS_Aris
   TZ: Asia/Ho_Chi_Minh
   MIR: wet
 jobs:
