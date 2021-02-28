@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download.c.realme.com/osupdate/RMX1805EX_11_OTA_0710_all_i3cdf6V7tk6F.ozip
+  ROM_URL: https://k-tai.sharp.co.jp/support/developers/android11_betaprogram/download/Android11_DeveloperPreviewProgram_forAQUOS_Beta2.zip
   ROM_NAME: Generic
-  ZIP_NAME: realmeUI_port
+  ZIP_NAME: aquos_rom
   TZ: Asia/Ho_Chi_Minh
   MIR: wet
 jobs:
